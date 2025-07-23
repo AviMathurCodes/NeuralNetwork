@@ -1,5 +1,5 @@
 # main.py
 
 import numpy as np
-
-print("Hello Neural Network")
+import pandas as pd
+from matplotlib import pyplot as plt
