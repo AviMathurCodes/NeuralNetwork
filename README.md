@@ -66,3 +66,7 @@ Additional notes:
 
 11. Learning rate is a small positive number (like 0.01) that controls how big the step is in each update of the model parameters. Can't be too small or too large(slow, overshoot respectively).
     To minimize the loss, and gradient descent moves in the direction that reduces it most quickly. After many such steps, the weights converge to values that minimize the loss.
+
+
+
+UPDATE: Instead of using VSCode, I am using Jupyter Notebook via Kraggle for easy input of Mnist dataset. I have linked the notebook in the repository.
